@@ -1,0 +1,25 @@
+body { background-color: rgb(240, 245, 247); 
+text-align: center;}
+
+h1 {
+    font-family: initial;
+    color: rebeccapurple;
+    font-weight: bolder;
+    background-color: thistle;
+}
+h2 {
+    font-family: initial;
+    font-weight: bold;
+    font-style: italic;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: slategray
+}
+img {
+    background-size: 150px;
+}
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightsteelblue;
+}
